@@ -3,4 +3,6 @@ node {
    git 'https://github.com/sureshscm/test_repo1'
    }
   }
-  
+stage('build'){
+   echo "hail"
+   }
