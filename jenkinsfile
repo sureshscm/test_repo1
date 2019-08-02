@@ -6,3 +6,12 @@ node {
 stage('build'){
    echo "hail"
    }
+stage('sonarqube'){
+   echo "hail"
+   }
+stage('nexus'){
+      echo "hail"
+      }
+stage('DEV'){
+   echo "hail"
+   }
